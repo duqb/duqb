@@ -1,5 +1,5 @@
 <p>
-  <img src="./pk.gif" width="240px" align="center">
+  <img src="https://github.com/duqb/duqb/blob/master/pk.gif" width="240px" align="center">
 </p>
 
 <!--
