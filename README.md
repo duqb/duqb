@@ -1,6 +1,5 @@
-<p>
-  <img src="https://github.com/duqb/duqb/blob/master/pk.gif" width="240px" align="center">
-</p>
+<p>🔭 Hello World</p>
+<p><img src="https://github.com/duqb/duqb/blob/master/pk.gif" width="240px" align="center"></p>
 
 <!--
 **duqb/duqb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
