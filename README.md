@@ -1,4 +1,4 @@
-<p>🔭 Hello World</p>
+<p>🔭 Hello Github</p>
 <p><img src="https://github.com/duqb/duqb/blob/master/pk.gif" width="240px" align="center"></p>
 
 <!--
